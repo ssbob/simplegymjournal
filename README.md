@@ -6,8 +6,8 @@
 
 ## Support
 
-For support, see [support.md](https://github.com/ssbob/Simple-Gym-Journal-v2/blob/main/support.md)
+For support, see [support.md](./support.md)
 
 ## Privacy
 
-To review our privacy policy, see [privacy.md](https://github.com/ssbob/Simple-Gym-Journal-v2/blob/main/privacy.md)
+To review our privacy policy, see [privacy.md](./privacy.md)
